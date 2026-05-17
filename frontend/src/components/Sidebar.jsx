@@ -27,7 +27,7 @@ export default function Sidebar({ currentStep, isDone, onReset }) {
   return (
     <aside className="sidebar">
       <div className="sidebar-logo">
-        <span className="emoji">🚀</span>
+        <span className="emoji"></span>
         Startup Validator
       </div>
 

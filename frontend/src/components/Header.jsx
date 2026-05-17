@@ -6,7 +6,7 @@ export default function Header() {
       </div>
 
       <h1 className="hero-title">
-        AI <span className="gradient-text">Startup Validator</span>
+        AI <span className="gradient-text">Check Startup Validator</span>
       </h1>
 
       <p className="hero-sub">

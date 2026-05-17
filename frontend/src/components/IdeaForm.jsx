@@ -44,7 +44,7 @@ export default function IdeaForm({ onSubmit, disabled }) {
             Analyzing...
           </>
         ) : (
-          <>🚀 Analyze My Startup Idea</>
+          <> Analyze My Startup Idea</>
         )}
       </button>
     </form>
